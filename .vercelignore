@@ -1,0 +1,4 @@
+scripts
+.github
+.cache
+__pycache__
