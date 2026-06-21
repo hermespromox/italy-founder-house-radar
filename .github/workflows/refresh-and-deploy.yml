@@ -1,0 +1,53 @@
+name: Refresh opportunities and deploy
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Scrape current opportunities
+        env:
+          SCRAPINGDOG_API_KEY: ${{ secrets.SCRAPINGDOG_API_KEY }}
+          MAX_DETAIL_FETCHES: "35"
+        run: python3 scripts/scrape.py
+      - name: Commit data if changed
+        run: |
+          git config user.name "Italy Radar Bot"
+          git config user.email "italy-radar-bot@users.noreply.github.com"
+          git add data/opportunities.json
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore: refresh Italy property opportunities"
+            git push
+          fi
+      - name: Install Vercel CLI
+        run: npm i -g vercel@latest
+      - name: Pull Vercel environment
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: vercel pull --yes --environment=production --token "$VERCEL_TOKEN"
+      - name: Build with Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: vercel build --prod --token "$VERCEL_TOKEN"
+      - name: Deploy production
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: vercel deploy --prebuilt --prod --token "$VERCEL_TOKEN"

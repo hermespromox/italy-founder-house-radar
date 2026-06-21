@@ -1,0 +1,11 @@
+{
+  "name": "italy-founder-house-radar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "python3 scripts/scrape.py",
+    "build": "rm -rf dist && mkdir -p dist/data dist/assets && cp index.html dist/ && cp data/opportunities.json dist/data/ && cp -R assets/* dist/assets/ 2>/dev/null || true",
+    "start": "python3 -m http.server 4173 --directory dist"
+  },
+  "devDependencies": {}
+}
