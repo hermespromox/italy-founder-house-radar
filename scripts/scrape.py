@@ -193,8 +193,10 @@ def build_reason(price, sqm, rooms, text, region, ppm) -> str:
     return " · ".join(bits[:4]) or "Annonce à vérifier : potentiel détecté via titre/snippet et source publique."
 
 
-def google_discover(key: str, limit_per_query: int = 10) -> list[dict[str, str]]:
+def google_discover(key: str, limit_per_query: int = 8) -> list[dict[str, str]]:
     rows, seen = [], set()
+    max_queries = int(os.environ.get("MAX_DISCOVERY_QUERIES", "30"))
+    query_count = 0
     for region in REGIONS:
         for source_name, cfg in SOURCES.items():
             for term in SEARCH_TERMS[:3]:
@@ -210,6 +212,9 @@ def google_discover(key: str, limit_per_query: int = 10) -> list[dict[str, str]]
                     "num": str(limit_per_query),
                     "advance_search": "false",
                 }
+                if query_count >= max_queries:
+                    return rows
+                query_count += 1
                 try:
                     r = requests.get("https://api.scrapingdog.com/google", params=params, timeout=60)
                     if r.status_code != 200:
@@ -263,7 +268,7 @@ def main() -> int:
     opportunities: list[dict[str, Any]] = []
     seen = set()
     # Limit detail fetches to keep credits predictable; snippets still produce usable rows.
-    max_detail = int(os.environ.get("MAX_DETAIL_FETCHES", "35"))
+    max_detail = int(os.environ.get("MAX_DETAIL_FETCHES", "12"))
     for i, item in enumerate(discovered[:90]):
         url = item["url"].split("#", 1)[0]
         if url in seen:
