@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: "18"
       - name: Install Python dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r scripts/requirements.txt
       - name: Scrape current opportunities
         env:
           SCRAPINGDOG_API_KEY: ${{ secrets.SCRAPINGDOG_API_KEY }}
