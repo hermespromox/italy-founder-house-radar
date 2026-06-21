@@ -268,7 +268,7 @@ def main() -> int:
     opportunities: list[dict[str, Any]] = []
     seen = set()
     # Limit detail fetches to keep credits predictable; snippets still produce usable rows.
-    max_detail = int(os.environ.get("MAX_DETAIL_FETCHES", "12"))
+    max_detail = int(os.environ.get("MAX_DETAIL_FETCHES", "0"))
     for i, item in enumerate(discovered[:90]):
         url = item["url"].split("#", 1)[0]
         if url in seen:

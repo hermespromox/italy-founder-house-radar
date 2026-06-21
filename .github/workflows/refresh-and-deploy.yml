@@ -24,8 +24,8 @@ jobs:
       - name: Scrape current opportunities
         env:
           SCRAPINGDOG_API_KEY: ${{ secrets.SCRAPINGDOG_API_KEY }}
-          MAX_DETAIL_FETCHES: "12"
-          MAX_DISCOVERY_QUERIES: "30"
+          MAX_DETAIL_FETCHES: "0"
+          MAX_DISCOVERY_QUERIES: "20"
         run: python3 scripts/scrape.py
       - name: Commit data if changed
         run: |
