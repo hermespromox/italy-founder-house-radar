@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T06:20:01.167570+00:00",
+  "updated_at": "2026-07-08T10:03:24.835962+00:00",
   "count": 7,
   "visible_count": 4,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -195,7 +195,7 @@
       "reject_reasons": [],
       "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
       "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-07-08T06:19:59.413331+00:00"
+      "scraped_at": "2026-07-08T10:03:22.831897+00:00"
     },
     {
       "id": "dc2eab346fa6",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-07-08T06:19:59.914555+00:00"
+      "scraped_at": "2026-07-08T10:03:23.332935+00:00"
     }
   ]
 }
