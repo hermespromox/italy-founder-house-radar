@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-09T01:28:02.682973+00:00",
-  "count": 7,
-  "visible_count": 5,
+  "updated_at": "2026-07-09T07:26:48.235945+00:00",
+  "count": 8,
+  "visible_count": 6,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
     "Idealista",
@@ -138,6 +138,36 @@
       "reject_reasons": []
     },
     {
+      "id": "632e1c2baa20",
+      "title": "Casa indipendente in vendita in Via San Leonardo, 8 - Idealista",
+      "url": "https://www.idealista.it/immobile/34145707/",
+      "source": "Idealista",
+      "region": "Sicilia",
+      "city": null,
+      "price_eur": 57000,
+      "sqm": null,
+      "rooms": null,
+      "price_per_sqm": null,
+      "property_type": "Maison entière",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 62,
+      "score_parts": {
+        "budget": 18,
+        "volume": -2,
+        "type": 20,
+        "nature": 6,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "Maison à étudier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
+      "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
+      "scraped_at": "2026-07-09T07:26:43.978191+00:00"
+    },
+    {
       "id": "4540510beb44",
       "title": "Casale/cascina in vendita a Iglesias, Sulcis Iglesiente, Sud Sardegna",
       "url": "https://www.idealista.it/immobile/25248983/",
@@ -202,30 +232,30 @@
       "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
       "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
       "source": "Immobiliare",
-      "region": "Sicilia",
+      "region": "Italie",
       "city": null,
       "price_eur": 119000,
-      "sqm": 150,
+      "sqm": null,
       "rooms": null,
-      "price_per_sqm": 793.3,
+      "price_per_sqm": null,
       "property_type": "Villa",
-      "airport_access": "probablement <1h30 aéroport",
-      "nearest_airport_hint": "Palermo",
-      "score": 47,
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 9,
       "score_parts": {
         "budget": -25,
-        "volume": 14,
-        "type": 20,
-        "nature": 6,
-        "airport": 12,
+        "volume": -2,
+        "type": 16,
+        "nature": 0,
+        "airport": 0,
         "risk": 0
       },
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": [],
-      "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
-      "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-07-09T01:28:00.678959+00:00"
+      "reason": "Villa",
+      "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
+      "scraped_at": "2026-07-09T07:26:45.731161+00:00"
     }
   ]
 }
