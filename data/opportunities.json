@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T07:26:48.235945+00:00",
+  "updated_at": "2026-07-09T10:43:19.957130+00:00",
   "count": 8,
   "visible_count": 6,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -232,30 +232,30 @@
       "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
       "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
       "source": "Immobiliare",
-      "region": "Italie",
+      "region": "Sicilia",
       "city": null,
       "price_eur": 119000,
-      "sqm": null,
+      "sqm": 150,
       "rooms": null,
-      "price_per_sqm": null,
+      "price_per_sqm": 793.3,
       "property_type": "Villa",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 9,
+      "airport_access": "probablement <1h30 aéroport",
+      "nearest_airport_hint": "Palermo",
+      "score": 47,
       "score_parts": {
         "budget": -25,
-        "volume": -2,
-        "type": 16,
-        "nature": 0,
-        "airport": 0,
+        "volume": 14,
+        "type": 20,
+        "nature": 6,
+        "airport": 12,
         "risk": 0
       },
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": [],
-      "reason": "Villa",
-      "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-09T07:26:45.731161+00:00"
+      "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
+      "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
+      "scraped_at": "2026-07-09T10:43:17.451614+00:00"
     }
   ]
 }
