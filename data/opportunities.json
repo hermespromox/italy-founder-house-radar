@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T17:39:19.594451+00:00",
+  "updated_at": "2026-07-10T20:58:07.988835+00:00",
   "count": 7,
   "visible_count": 5,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Villa",
       "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-10T17:39:17.340565+00:00"
+      "scraped_at": "2026-07-10T20:58:05.734271+00:00"
     }
   ]
 }
