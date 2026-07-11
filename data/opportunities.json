@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-11T09:13:37.052343+00:00",
-  "count": 8,
+  "updated_at": "2026-07-11T12:45:34.311277+00:00",
+  "count": 7,
   "visible_count": 5,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -198,36 +198,6 @@
       "reject_reasons": []
     },
     {
-      "id": "dc2eab346fa6",
-      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
-      "url": "https://www.immobiliare.it/annunci/88960297/",
-      "source": "Immobiliare",
-      "region": "Italie",
-      "city": "Venezia",
-      "price_eur": 100000,
-      "sqm": null,
-      "rooms": null,
-      "price_per_sqm": null,
-      "property_type": "Maison de village",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 44,
-      "score_parts": {
-        "budget": 10,
-        "volume": -2,
-        "type": 16,
-        "nature": 0,
-        "airport": 0,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Maison de village · budget compatible (100 000€)",
-      "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-07-11T09:13:36.050326+00:00"
-    },
-    {
       "id": "836bbdb36b81",
       "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
       "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
@@ -255,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Villa",
       "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-11T09:13:35.048686+00:00"
+      "scraped_at": "2026-07-11T12:45:32.305961+00:00"
     }
   ]
 }
