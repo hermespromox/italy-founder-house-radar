@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T06:05:49.298614+00:00",
+  "updated_at": "2026-07-11T09:13:37.052343+00:00",
   "count": 8,
   "visible_count": 5,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-07-11T06:05:48.046343+00:00"
+      "scraped_at": "2026-07-11T09:13:36.050326+00:00"
     },
     {
       "id": "836bbdb36b81",
@@ -255,7 +255,7 @@
       "reject_reasons": [],
       "reason": "Villa",
       "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-11T06:05:47.044946+00:00"
+      "scraped_at": "2026-07-11T09:13:35.048686+00:00"
     }
   ]
 }
