@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T06:02:28.341013+00:00",
+  "updated_at": "2026-07-14T09:42:57.270504+00:00",
   "count": 7,
   "visible_count": 5,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-07-14T01:11:07.725158+00:00"
+      "scraped_at": "2026-07-14T09:42:53.011513+00:00"
     },
     {
       "id": "4540510beb44",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
       "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-07-14T06:02:26.336297+00:00"
+      "scraped_at": "2026-07-14T09:42:54.765066+00:00"
     }
   ]
 }
