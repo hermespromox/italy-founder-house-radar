@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T16:59:34.958564+00:00",
+  "updated_at": "2026-07-16T20:42:00.901517+00:00",
   "count": 9,
   "visible_count": 7,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -195,7 +195,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-07-16T16:59:30.950627+00:00"
+      "scraped_at": "2026-07-16T20:41:56.392140+00:00"
     },
     {
       "id": "4540510beb44",
@@ -285,7 +285,7 @@
       "reject_reasons": [],
       "reason": "Villa",
       "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-16T16:59:32.703972+00:00"
+      "scraped_at": "2026-07-16T20:41:58.145517+00:00"
     }
   ]
 }
