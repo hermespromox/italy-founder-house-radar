@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T09:13:46.628797+00:00",
-  "count": 9,
+  "updated_at": "2026-07-18T12:43:11.842690+00:00",
+  "count": 8,
   "visible_count": 7,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -256,36 +256,6 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
-    },
-    {
-      "id": "dc2eab346fa6",
-      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
-      "url": "https://www.immobiliare.it/annunci/88960297/",
-      "source": "Immobiliare",
-      "region": "Italie",
-      "city": "Venezia",
-      "price_eur": 100000,
-      "sqm": null,
-      "rooms": null,
-      "price_per_sqm": null,
-      "property_type": "Maison de village",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 44,
-      "score_parts": {
-        "budget": 10,
-        "volume": -2,
-        "type": 16,
-        "nature": 0,
-        "airport": 0,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Maison de village · budget compatible (100 000€)",
-      "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-07-18T09:13:45.626054+00:00"
     }
   ]
 }
