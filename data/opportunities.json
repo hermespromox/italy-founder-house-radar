@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T09:41:21.311902+00:00",
-  "count": 9,
+  "updated_at": "2026-07-19T12:45:11.732318+00:00",
+  "count": 10,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (370 m²) · nature/espace (jardin) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
       "snippet": "Rustico via Venezia, Venezia € 100.000 5+ 370 m2 1 ・ = 108 mq giardino = 623 mq imp. Vendita Piano Piano terra Piani edificio ・ abitabile 370 ...",
-      "scraped_at": "2026-07-19T09:41:20.308681+00:00"
+      "scraped_at": "2026-07-19T12:45:09.978395+00:00"
     },
     {
       "id": "12bbb82c58cd",
@@ -165,7 +165,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
-      "scraped_at": "2026-07-17T06:07:35.896143+00:00"
+      "scraped_at": "2026-07-19T12:45:11.230486+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -286,6 +286,36 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
+    },
+    {
+      "id": "836bbdb36b81",
+      "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
+      "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
+      "source": "Immobiliare",
+      "region": "Italie",
+      "city": null,
+      "price_eur": 119000,
+      "sqm": null,
+      "rooms": null,
+      "price_per_sqm": null,
+      "property_type": "Villa",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 9,
+      "score_parts": {
+        "budget": -25,
+        "volume": -2,
+        "type": 16,
+        "nature": 0,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "À vérifier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Villa",
+      "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
+      "scraped_at": "2026-07-19T12:45:08.976149+00:00"
     }
   ]
 }
