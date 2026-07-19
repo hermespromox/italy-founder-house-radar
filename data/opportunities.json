@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-19T06:20:20.606861+00:00",
+  "updated_at": "2026-07-19T09:41:21.311902+00:00",
   "count": 9,
-  "visible_count": 7,
+  "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
     "Idealista",
@@ -106,6 +106,36 @@
       "reason": "Maison entière · volume exploitable (200 m²) · nature/espace (jardin) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²)",
       "snippet": "Al primo piano si trova un ampio terrazzo che si affaccia sul panorama circostante, completato da un giardino di 200 mq. ... Prezzo dell'immobile: 80.000 €.",
       "scraped_at": "2026-06-21T09:02:56.241359+00:00"
+    },
+    {
+      "id": "dc2eab346fa6",
+      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
+      "url": "https://www.immobiliare.it/annunci/88960297/",
+      "source": "Immobiliare",
+      "region": "Italie",
+      "city": "Venezia",
+      "price_eur": 100000,
+      "sqm": 370,
+      "rooms": null,
+      "price_per_sqm": 270.3,
+      "property_type": "Maison de village",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 76,
+      "score_parts": {
+        "budget": 10,
+        "volume": 24,
+        "type": 16,
+        "nature": 6,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "Maison à étudier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Maison de village · volume exploitable (370 m²) · nature/espace (jardin) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
+      "snippet": "Rustico via Venezia, Venezia € 100.000 5+ 370 m2 1 ・ = 108 mq giardino = 623 mq imp. Vendita Piano Piano terra Piani edificio ・ abitabile 370 ...",
+      "scraped_at": "2026-07-19T09:41:20.308681+00:00"
     },
     {
       "id": "12bbb82c58cd",
@@ -256,36 +286,6 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
-    },
-    {
-      "id": "836bbdb36b81",
-      "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
-      "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
-      "source": "Immobiliare",
-      "region": "Sicilia",
-      "city": null,
-      "price_eur": 119000,
-      "sqm": 150,
-      "rooms": null,
-      "price_per_sqm": 793.3,
-      "property_type": "Villa",
-      "airport_access": "probablement <1h30 aéroport",
-      "nearest_airport_hint": "Palermo",
-      "score": 47,
-      "score_parts": {
-        "budget": -25,
-        "volume": 14,
-        "type": 20,
-        "nature": 6,
-        "airport": 12,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
-      "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-07-19T06:20:18.602294+00:00"
     }
   ]
 }
