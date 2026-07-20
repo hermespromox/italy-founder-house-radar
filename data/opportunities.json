@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T20:36:04.002082+00:00",
+  "updated_at": "2026-07-20T01:22:15.336325+00:00",
   "count": 9,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (370 m²) · nature/espace (jardin) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
       "snippet": "Rustico via Venezia, Venezia € 100.000 5+ 370 m2 1 ・ = 108 mq giardino = 623 mq imp. Vendita Piano Piano terra Piani edificio ・ abitabile 370 ...",
-      "scraped_at": "2026-07-19T12:45:09.978395+00:00"
+      "scraped_at": "2026-07-20T01:22:14.333462+00:00"
     },
     {
       "id": "12bbb82c58cd",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-07-19T16:41:40.165019+00:00"
+      "scraped_at": "2026-07-20T01:22:11.578249+00:00"
     },
     {
       "id": "4540510beb44",
