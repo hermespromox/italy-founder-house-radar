@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T17:05:12.431664+00:00",
-  "count": 10,
+  "updated_at": "2026-07-21T20:56:16.282519+00:00",
+  "count": 9,
   "visible_count": 7,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -195,7 +195,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-07-21T13:09:26.799170+00:00"
+      "scraped_at": "2026-07-21T20:56:14.027293+00:00"
     },
     {
       "id": "4540510beb44",
@@ -262,48 +262,18 @@
       "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
       "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
       "source": "Immobiliare",
-      "region": "Sicilia",
+      "region": "Italie",
       "city": null,
       "price_eur": 119000,
-      "sqm": 150,
-      "rooms": null,
-      "price_per_sqm": 793.3,
-      "property_type": "Villa",
-      "airport_access": "probablement <1h30 aéroport",
-      "nearest_airport_hint": "Palermo",
-      "score": 47,
-      "score_parts": {
-        "budget": -25,
-        "volume": 14,
-        "type": 20,
-        "nature": 6,
-        "airport": 12,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
-      "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-07-21T17:05:10.426608+00:00"
-    },
-    {
-      "id": "dc2eab346fa6",
-      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
-      "url": "https://www.immobiliare.it/annunci/88960297/",
-      "source": "Immobiliare",
-      "region": "Italie",
-      "city": "Venezia",
-      "price_eur": 100000,
       "sqm": null,
       "rooms": null,
       "price_per_sqm": null,
-      "property_type": "Maison de village",
+      "property_type": "Villa",
       "airport_access": "aéroport à vérifier",
       "nearest_airport_hint": null,
-      "score": 44,
+      "score": 9,
       "score_parts": {
-        "budget": 10,
+        "budget": -25,
         "volume": -2,
         "type": 16,
         "nature": 0,
@@ -313,9 +283,9 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": [],
-      "reason": "Maison de village · budget compatible (100 000€)",
-      "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-07-21T17:05:11.428816+00:00"
+      "reason": "Villa",
+      "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
+      "scraped_at": "2026-07-21T20:56:16.031098+00:00"
     }
   ]
 }
