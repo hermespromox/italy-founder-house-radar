@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-23T13:18:20.427826+00:00",
-  "count": 9,
+  "updated_at": "2026-07-23T17:07:41.966061+00:00",
+  "count": 10,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -286,6 +286,36 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
+    },
+    {
+      "id": "836bbdb36b81",
+      "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
+      "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
+      "source": "Immobiliare",
+      "region": "Sicilia",
+      "city": null,
+      "price_eur": 119000,
+      "sqm": 150,
+      "rooms": null,
+      "price_per_sqm": 793.3,
+      "property_type": "Villa",
+      "airport_access": "probablement <1h30 aéroport",
+      "nearest_airport_hint": "Palermo",
+      "score": 47,
+      "score_parts": {
+        "budget": -25,
+        "volume": 14,
+        "type": 20,
+        "nature": 6,
+        "airport": 12,
+        "risk": 0
+      },
+      "quality_tier": "À vérifier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
+      "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
+      "scraped_at": "2026-07-23T17:07:39.961742+00:00"
     }
   ]
 }
