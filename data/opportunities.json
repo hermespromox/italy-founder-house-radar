@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T10:25:18.888968+00:00",
-  "count": 9,
+  "updated_at": "2026-07-31T13:24:34.263088+00:00",
+  "count": 10,
   "visible_count": 7,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
-      "scraped_at": "2026-07-31T06:35:21.895279+00:00"
+      "scraped_at": "2026-07-31T13:24:33.761590+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -195,7 +195,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-07-31T10:25:14.131645+00:00"
+      "scraped_at": "2026-07-31T13:24:29.254053+00:00"
     },
     {
       "id": "4540510beb44",
@@ -258,6 +258,36 @@
       "reject_reasons": []
     },
     {
+      "id": "dc2eab346fa6",
+      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
+      "url": "https://www.immobiliare.it/annunci/88960297/",
+      "source": "Immobiliare",
+      "region": "Italie",
+      "city": "Venezia",
+      "price_eur": 100000,
+      "sqm": null,
+      "rooms": null,
+      "price_per_sqm": null,
+      "property_type": "Maison de village",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 44,
+      "score_parts": {
+        "budget": 10,
+        "volume": -2,
+        "type": 16,
+        "nature": 0,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "À vérifier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Maison de village · budget compatible (100 000€)",
+      "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
+      "scraped_at": "2026-07-31T13:24:32.509604+00:00"
+    },
+    {
       "id": "836bbdb36b81",
       "title": "Villa bifamiliare Ss113, Campofelice di Roccella - Immobiliare.it",
       "url": "https://www.immobiliare.it/annunci/98494816/?entryPoint=related",
@@ -285,7 +315,7 @@
       "reject_reasons": [],
       "reason": "Villa",
       "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-31T10:25:16.635030+00:00"
+      "scraped_at": "2026-07-31T13:24:31.507982+00:00"
     }
   ]
 }
