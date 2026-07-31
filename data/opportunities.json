@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:52:39.400461+00:00",
+  "updated_at": "2026-07-31T01:24:42.009433+00:00",
   "count": 10,
   "visible_count": 7,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
-      "scraped_at": "2026-07-30T17:12:51.044903+00:00"
+      "scraped_at": "2026-07-31T01:24:41.507833+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -285,7 +285,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-07-30T20:52:38.397928+00:00"
+      "scraped_at": "2026-07-31T01:24:40.255763+00:00"
     },
     {
       "id": "836bbdb36b81",
@@ -315,7 +315,7 @@
       "reject_reasons": [],
       "reason": "Villa",
       "snippet": "Villa bifamiliare Ss113, Campofelice di Roccella ; Prezzo: € 119.000 ; Prezzo al m²: 1.983 €/m².",
-      "scraped_at": "2026-07-30T20:52:37.396066+00:00"
+      "scraped_at": "2026-07-31T01:24:39.253881+00:00"
     }
   ]
 }
