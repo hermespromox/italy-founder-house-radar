@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T12:48:08.834743+00:00",
+  "updated_at": "2026-08-01T16:44:03.335406+00:00",
   "count": 10,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -315,7 +315,7 @@
       "reject_reasons": [],
       "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
       "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-08-01T12:48:06.079729+00:00"
+      "scraped_at": "2026-08-01T16:44:00.829986+00:00"
     }
   ]
 }
