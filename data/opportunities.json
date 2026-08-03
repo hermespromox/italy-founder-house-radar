@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T01:24:34.030512+00:00",
+  "updated_at": "2026-08-03T06:49:52.651598+00:00",
   "count": 10,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
-      "scraped_at": "2026-08-02T09:46:41.044854+00:00"
+      "scraped_at": "2026-08-03T06:49:52.149836+00:00"
     },
     {
       "id": "dc2eab346fa6",
@@ -165,7 +165,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (370 m²) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse. Grumolo delle AbbadesseVia Venezia. € 100.000. 5+. 370 m². 1. No. Cantina. Nota. aggiungi.",
-      "scraped_at": "2026-08-03T01:24:33.278285+00:00"
+      "scraped_at": "2026-08-03T06:49:51.148073+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -315,7 +315,7 @@
       "reject_reasons": [],
       "reason": "Villa · volume exploitable (150 m²) · nature/espace (jardin) · probablement <1h30 aéroport · Sicilia",
       "snippet": "Sicilia, Palermo, Villa bifamiliare Ss113, Sicilia, Palermo, giardino privato di circa 150 mq ed ・ 3 Tel. 0921 443020 leggi. Prezzo € 119.000 ...",
-      "scraped_at": "2026-08-03T01:24:32.026275+00:00"
+      "scraped_at": "2026-08-03T06:49:49.895390+00:00"
     }
   ]
 }
