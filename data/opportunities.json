@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:43:27.167806+00:00",
+  "updated_at": "2026-08-07T16:38:46.645758+00:00",
   "count": 9,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
-      "scraped_at": "2026-08-07T05:26:33.857588+00:00"
+      "scraped_at": "2026-08-07T16:38:46.144097+00:00"
     },
     {
       "id": "dc2eab346fa6",
@@ -165,7 +165,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (370 m²) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse. Grumolo delle AbbadesseVia Venezia. € 100.000. 5+. 370 m². 1. No. Cantina. Nota. aggiungi.",
-      "scraped_at": "2026-08-07T08:43:26.415740+00:00"
+      "scraped_at": "2026-08-07T16:38:45.392864+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-08-07T08:43:22.909955+00:00"
+      "scraped_at": "2026-08-07T16:38:41.886479+00:00"
     },
     {
       "id": "4540510beb44",
