@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-11T00:44:16.992490+00:00",
+  "updated_at": "2026-08-11T04:56:50.130565+00:00",
   "count": 9,
-  "visible_count": 8,
+  "visible_count": 7,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
     "Idealista",
@@ -165,7 +165,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (370 m²) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse. Grumolo delle AbbadesseVia Venezia. € 100.000. 5+. 370 m². 1. No. Cantina. Nota. aggiungi.",
-      "scraped_at": "2026-08-10T20:28:37.065210+00:00"
+      "scraped_at": "2026-08-11T04:56:48.627093+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -198,36 +198,6 @@
       "reject_reasons": []
     },
     {
-      "id": "632e1c2baa20",
-      "title": "Casa indipendente in vendita in Via San Leonardo, 8 - Idealista",
-      "url": "https://www.idealista.it/immobile/34145707/",
-      "source": "Idealista",
-      "region": "Sicilia",
-      "city": null,
-      "price_eur": 57000,
-      "sqm": null,
-      "rooms": null,
-      "price_per_sqm": null,
-      "property_type": "Maison entière",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 62,
-      "score_parts": {
-        "budget": 18,
-        "volume": -2,
-        "type": 20,
-        "nature": 6,
-        "airport": 0,
-        "risk": 0
-      },
-      "quality_tier": "Maison à étudier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
-      "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-08-11T00:44:12.233601+00:00"
-    },
-    {
       "id": "4540510beb44",
       "title": "Casale/cascina in vendita a Iglesias, Sulcis Iglesiente, Sud Sardegna",
       "url": "https://www.idealista.it/immobile/25248983/",
@@ -256,6 +226,36 @@
       "quality_tier": "Maison à étudier",
       "is_coliving_candidate": true,
       "reject_reasons": []
+    },
+    {
+      "id": "632e1c2baa20",
+      "title": "Casa indipendente in vendita in Via San Leonardo, 8 - Idealista",
+      "url": "https://www.idealista.it/immobile/34145707/",
+      "source": "Idealista",
+      "region": "Sicilia",
+      "city": null,
+      "price_eur": 57000,
+      "sqm": null,
+      "rooms": 3,
+      "price_per_sqm": null,
+      "property_type": "Maison entière",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 50,
+      "score_parts": {
+        "budget": 18,
+        "volume": -8,
+        "type": 20,
+        "nature": 0,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "À vérifier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Maison entière · budget compatible (57 000€) · Sicilia",
+      "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, comprendenti 3 camere da letto, salone e 2 bagni, Prezzo € 57.000.",
+      "scraped_at": "2026-08-11T04:56:45.622044+00:00"
     },
     {
       "id": "afa2207981fa",
