@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T05:25:21.352598+00:00",
+  "updated_at": "2026-08-13T08:59:25.858275+00:00",
   "count": 9,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -108,36 +108,6 @@
       "scraped_at": "2026-06-21T09:02:56.241359+00:00"
     },
     {
-      "id": "dc2eab346fa6",
-      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
-      "url": "https://www.immobiliare.it/annunci/88960297/",
-      "source": "Immobiliare",
-      "region": "Italie",
-      "city": "Venezia",
-      "price_eur": 100000,
-      "sqm": 370,
-      "rooms": null,
-      "price_per_sqm": 270.3,
-      "property_type": "Maison de village",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 76,
-      "score_parts": {
-        "budget": 10,
-        "volume": 24,
-        "type": 16,
-        "nature": 6,
-        "airport": 0,
-        "risk": 0
-      },
-      "quality_tier": "Maison à étudier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Maison de village · volume exploitable (370 m²) · nature/espace (jardin) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
-      "snippet": "Rustico via Venezia, Venezia € 100.000 5+ 370 m2 1 ・ 370 mq mq calpestabili = 125 mq piano terra ingresso ・ 108 mq giardino = 623 mq imp. ...",
-      "scraped_at": "2026-08-13T00:52:37.291558+00:00"
-    },
-    {
       "id": "12bbb82c58cd",
       "title": "Terratetto unifamiliare via Pozzo Massa Santa Lucia, Masse, Messina",
       "url": "https://www.immobiliare.it/annunci/118958483/",
@@ -166,6 +136,36 @@
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
       "scraped_at": "2026-08-10T12:38:20.296860+00:00"
+    },
+    {
+      "id": "dc2eab346fa6",
+      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
+      "url": "https://www.immobiliare.it/annunci/88960297/",
+      "source": "Immobiliare",
+      "region": "Italie",
+      "city": "Venezia",
+      "price_eur": 100000,
+      "sqm": 370,
+      "rooms": null,
+      "price_per_sqm": 270.3,
+      "property_type": "Maison de village",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 70,
+      "score_parts": {
+        "budget": 10,
+        "volume": 24,
+        "type": 16,
+        "nature": 0,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "Maison à étudier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Maison de village · volume exploitable (370 m²) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
+      "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse. Grumolo delle AbbadesseVia Venezia. € 100.000. 5+. 370 m². 1. No. Cantina. Nota. aggiungi.",
+      "scraped_at": "2026-08-13T08:59:24.856044+00:00"
     },
     {
       "id": "f1ea15ae29e9",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-08-13T00:52:34.536515+00:00"
+      "scraped_at": "2026-08-13T08:59:21.851896+00:00"
     },
     {
       "id": "4540510beb44",
