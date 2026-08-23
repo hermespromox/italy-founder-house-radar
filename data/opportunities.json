@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T20:09:16.716490+00:00",
+  "updated_at": "2026-08-23T00:31:31.354906+00:00",
   "count": 9,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -135,7 +135,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · volume exploitable (200 m²) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²) · Sicilia",
       "snippet": "Casa storica da ristrutturare – Vivi Il tuo sogno in Sicilia ... € 80.000. Terratetto unifamiliare via Unì, Masse, Messina. 5+. 200 m². 2.",
-      "scraped_at": "2026-08-22T16:09:06.684853+00:00"
+      "scraped_at": "2026-08-23T00:31:30.853008+00:00"
     },
     {
       "id": "dc2eab346fa6",
@@ -225,7 +225,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-08-22T20:09:12.459749+00:00"
+      "scraped_at": "2026-08-23T00:31:26.595543+00:00"
     },
     {
       "id": "4540510beb44",
