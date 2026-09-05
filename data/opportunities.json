@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:25:51.569897+00:00",
+  "updated_at": "2026-09-05T14:04:26.440374+00:00",
   "count": 9,
   "visible_count": 8,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -145,27 +145,27 @@
       "region": "Italie",
       "city": "Venezia",
       "price_eur": 100000,
-      "sqm": 620,
+      "sqm": 370,
       "rooms": null,
-      "price_per_sqm": 161.3,
+      "price_per_sqm": 270.3,
       "property_type": "Maison de village",
       "airport_access": "aéroport à vérifier",
       "nearest_airport_hint": null,
-      "score": 64,
+      "score": 70,
       "score_parts": {
         "budget": 10,
-        "volume": 12,
+        "volume": 24,
         "type": 16,
-        "nature": 6,
+        "nature": 0,
         "airport": 0,
         "risk": 0
       },
       "quality_tier": "Maison à étudier",
       "is_coliving_candidate": true,
       "reject_reasons": [],
-      "reason": "Maison de village · volume exploitable (620 m²) · nature/espace (jardin) · budget compatible (100 000€) · prix/m² intéressant (~161 €/m²)",
-      "snippet": "... giardino di 620 mq. possibiltà di ricavare 2 unità immobiliari. € 100.000. possibile usufruire del superbonus 110%. (fgdarusv03) per ...",
-      "scraped_at": "2026-09-05T11:25:50.567567+00:00"
+      "reason": "Maison de village · volume exploitable (370 m²) · budget compatible (100 000€) · prix/m² intéressant (~270 €/m²)",
+      "snippet": "Rustico via Venezia, Sarmego, Venezia € 100.000 5+ 370 m2 1 … 370 mq mq calpestabili = 125 mq piano terra ingresso",
+      "scraped_at": "2026-09-05T14:04:25.437590+00:00"
     },
     {
       "id": "f1ea15ae29e9",
