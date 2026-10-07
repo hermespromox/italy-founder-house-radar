@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T02:57:17.556113+00:00",
-  "count": 9,
-  "visible_count": 8,
+  "updated_at": "2026-10-07T10:39:01.902543+00:00",
+  "count": 10,
+  "visible_count": 9,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
     "Idealista",
@@ -166,6 +166,36 @@
       "reason": "Maison de village · volume exploitable (620 m²) · nature/espace (jardin) · budget compatible (100 000€) · prix/m² intéressant (~161 €/m²)",
       "snippet": "... giardino di 620 mq. possibiltà di ricavare 2 unità immobiliari. € 100.000. possibile usufruire del superbonus 110%. (fgdarusv03) per ...",
       "scraped_at": "2026-10-06T23:26:58.021118+00:00"
+    },
+    {
+      "id": "23a179f67a27",
+      "title": "Terratetto unifamiliare via Giuseppe Mazzini 43, Sambuca di Sicilia",
+      "url": "https://www.immobiliare.it/annunci/133222946/",
+      "source": "Immobiliare",
+      "region": "Sicilia",
+      "city": "Giuseppe Mazzini",
+      "price_eur": 80000,
+      "sqm": 136,
+      "rooms": null,
+      "price_per_sqm": 588.2,
+      "property_type": "Maison de village",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 64,
+      "score_parts": {
+        "budget": 18,
+        "volume": 0,
+        "type": 20,
+        "nature": 6,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "Maison à étudier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Maison de village · nature/espace · budget compatible (80 000€) · prix/m² intéressant (~588 €/m²) · Sicilia",
+      "snippet": "Giuseppe Mazzini, 43 € 80.000 5+ 136 m2 1 Balcone Terrazzo. Casa autonoma in centro storico abitabile da subito. Prezzo € 80.000",
+      "scraped_at": "2026-10-07T10:39:01.150070+00:00"
     },
     {
       "id": "f1ea15ae29e9",
