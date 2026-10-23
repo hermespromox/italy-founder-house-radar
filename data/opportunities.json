@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T22:50:23.466469+00:00",
-  "count": 11,
+  "updated_at": "2026-10-23T02:11:42.307444+00:00",
+  "count": 10,
   "visible_count": 9,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -165,7 +165,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · probablement <1h30 aéroport · budget compatible (66 000€) · Sicilia",
       "snippet": "Terratetto unifamiliare via Armando Diaz, Centro, Castiglione di Sicilia ; Prezzo: € 66.000 ; Prezzo al m²: 550 €/m².",
-      "scraped_at": "2026-10-21T02:12:58.826678+00:00"
+      "scraped_at": "2026-10-23T02:11:41.554855+00:00"
     },
     {
       "id": "23a179f67a27",
@@ -255,7 +255,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, un giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-10-22T16:10:36.765225+00:00"
+      "scraped_at": "2026-10-23T02:11:38.549515+00:00"
     },
     {
       "id": "4540510beb44",
@@ -316,36 +316,6 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
-    },
-    {
-      "id": "dc2eab346fa6",
-      "title": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse",
-      "url": "https://www.immobiliare.it/annunci/88960297/",
-      "source": "Immobiliare",
-      "region": "Italie",
-      "city": "Venezia",
-      "price_eur": 100000,
-      "sqm": null,
-      "rooms": null,
-      "price_per_sqm": null,
-      "property_type": "Maison de village",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 44,
-      "score_parts": {
-        "budget": 10,
-        "volume": -2,
-        "type": 16,
-        "nature": 0,
-        "airport": 0,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Maison de village · budget compatible (100 000€)",
-      "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-10-22T22:50:22.463484+00:00"
     }
   ]
 }
