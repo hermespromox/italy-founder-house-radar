@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:42:37.530951+00:00",
+  "updated_at": "2026-10-24T02:10:12.707787+00:00",
   "count": 12,
   "visible_count": 9,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -315,7 +315,7 @@
       "reject_reasons": [],
       "reason": "Casale / maison de campagne · budget compatible (30 000€) · Sicilia",
       "snippet": "Casale via Regina Margherita, Fiumefreddo di Sicilia ; Prezzo: € 30.000 ; Prezzo al m²: 333 €/m².",
-      "scraped_at": "2026-10-23T19:47:23.770982+00:00"
+      "scraped_at": "2026-10-24T02:10:11.203749+00:00"
     },
     {
       "id": "afa2207981fa",
@@ -375,7 +375,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-10-23T22:42:36.278233+00:00"
+      "scraped_at": "2026-10-24T02:10:12.205608+00:00"
     }
   ]
 }
