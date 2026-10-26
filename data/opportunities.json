@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T22:08:21.655822+00:00",
+  "updated_at": "2026-10-26T01:58:19.201623+00:00",
   "count": 13,
   "visible_count": 10,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -254,8 +254,8 @@
       "is_coliving_candidate": true,
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
-      "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, un giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-10-25T01:56:27.849291+00:00"
+      "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
+      "scraped_at": "2026-10-26T01:58:15.194774+00:00"
     },
     {
       "id": "4540510beb44",
@@ -405,7 +405,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-10-25T22:08:21.404130+00:00"
+      "scraped_at": "2026-10-26T01:58:17.197810+00:00"
     }
   ]
 }
