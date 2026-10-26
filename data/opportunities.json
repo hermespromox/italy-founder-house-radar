@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:58:19.201623+00:00",
+  "updated_at": "2026-10-26T09:27:13.513652+00:00",
   "count": 13,
   "visible_count": 10,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -255,7 +255,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-10-26T01:58:15.194774+00:00"
+      "scraped_at": "2026-10-26T09:27:09.756518+00:00"
     },
     {
       "id": "4540510beb44",
@@ -315,7 +315,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (46 000€) · Sicilia",
       "snippet": "Rustico Novara di Sicilia, Novara di Sicilia ; Informazioni sul prezzo. Prezzo: € 46.000. Prezzo al m²: 275 €/m². salva annuncio ; Prezzo al m² ...",
-      "scraped_at": "2026-10-25T22:08:19.901414+00:00"
+      "scraped_at": "2026-10-26T09:27:11.759843+00:00"
     },
     {
       "id": "3c0f7e87b041",
@@ -345,7 +345,7 @@
       "reject_reasons": [],
       "reason": "Casale / maison de campagne · budget compatible (30 000€) · Sicilia",
       "snippet": "Casale via Regina Margherita, Fiumefreddo di Sicilia ; Prezzo: € 30.000 ; Prezzo al m²: 333 €/m².",
-      "scraped_at": "2026-10-25T22:08:20.151796+00:00"
+      "scraped_at": "2026-10-26T09:27:12.010245+00:00"
     },
     {
       "id": "afa2207981fa",
@@ -405,7 +405,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-10-26T01:58:17.197810+00:00"
+      "scraped_at": "2026-10-26T09:27:13.262230+00:00"
     }
   ]
 }
