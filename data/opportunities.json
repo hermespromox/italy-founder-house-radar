@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T09:27:13.513652+00:00",
+  "updated_at": "2026-10-26T17:45:03.982629+00:00",
   "count": 13,
   "visible_count": 10,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -405,7 +405,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (100 000€)",
       "snippet": "Rustico via Venezia, Sarmego, Grumolo delle Abbadesse ; Prezzo: € 100.000 ; Prezzo al m²: 270 €/m².",
-      "scraped_at": "2026-10-26T09:27:13.262230+00:00"
+      "scraped_at": "2026-10-26T17:45:02.479458+00:00"
     }
   ]
 }
