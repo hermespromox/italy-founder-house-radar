@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T23:41:47.124407+00:00",
-  "count": 13,
+  "updated_at": "2026-10-29T03:05:38.098580+00:00",
+  "count": 12,
   "visible_count": 10,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -376,38 +376,6 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
-    },
-    {
-      "id": "cc4ba2304b69",
-      "title": "Case, ville e villette in vendita a Altavilla Milicia, Palermo - Idealista",
-      "url": "https://www.idealista.it/vendita-case/altavilla-milicia-palermo/con-ville,dimensione-max_120/",
-      "source": "Idealista",
-      "region": "Italie",
-      "city": "Altavilla Milicia",
-      "price_eur": 79000,
-      "sqm": 105,
-      "rooms": null,
-      "price_per_sqm": 752.4,
-      "property_type": "Villa",
-      "airport_access": "aéroport mentionné",
-      "nearest_airport_hint": null,
-      "score": 44,
-      "score_parts": {
-        "budget": 18,
-        "volume": -20,
-        "type": 16,
-        "nature": 0,
-        "airport": 10,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": false,
-      "reject_reasons": [
-        "surface trop petite pour coliving"
-      ],
-      "reason": "Villa · aéroport mentionné · budget compatible (79 000€)",
-      "snippet": "45 case, ville e villette in vendita a Altavilla Milicia, Palermo ; Immobiliare De Lollis · 69.000€ 79.000 € 13% · 105 m² ; ALTA Villa Immobiliare · 240.000€ 2.000 € ...",
-      "scraped_at": "2026-10-28T23:41:46.871685+00:00"
     }
   ]
 }
