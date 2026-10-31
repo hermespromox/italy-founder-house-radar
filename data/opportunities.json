@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T23:21:17.761999+00:00",
-  "count": 12,
+  "updated_at": "2026-10-31T02:55:47.500519+00:00",
+  "count": 13,
   "visible_count": 10,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -316,6 +316,36 @@
       "reason": "Maison de village · budget compatible (46 000€) · Sicilia",
       "snippet": "Rustico Novara di Sicilia, Novara di Sicilia ; Informazioni sul prezzo. Prezzo: € 46.000. Prezzo al m²: 275 €/m². salva annuncio ; Prezzo al m² ...",
       "scraped_at": "2026-10-26T09:27:11.759843+00:00"
+    },
+    {
+      "id": "4da2b2da677d",
+      "title": "Villa unifamiliare Contrada Rovetto snc, Trabia - Immobiliare.it",
+      "url": "https://www.immobiliare.it/annunci/129370446/",
+      "source": "Immobiliare",
+      "region": "Italie",
+      "city": "Rovetto snc",
+      "price_eur": 80000,
+      "sqm": null,
+      "rooms": null,
+      "price_per_sqm": null,
+      "property_type": "Villa",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 52,
+      "score_parts": {
+        "budget": 18,
+        "volume": -2,
+        "type": 16,
+        "nature": 0,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "À vérifier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Villa · budget compatible (80 000€)",
+      "snippet": "Villa unifamiliare Contrada Rovetto snc, Trabia ; Prezzo: € 80.000 ; Prezzo al m²: 667 €/m².",
+      "scraped_at": "2026-10-31T02:55:47.249578+00:00"
     },
     {
       "id": "3c0f7e87b041",
