@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02T11:46:00.526482+00:00",
-  "count": 13,
-  "visible_count": 10,
+  "updated_at": "2026-11-02T20:57:20.444725+00:00",
+  "count": 14,
+  "visible_count": 11,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
     "Idealista",
@@ -106,6 +106,36 @@
       "reason": "Maison entière · volume exploitable (200 m²) · nature/espace (jardin) · budget compatible (80 000€) · prix/m² intéressant (~400 €/m²)",
       "snippet": "Al primo piano si trova un ampio terrazzo che si affaccia sul panorama circostante, completato da un giardino di 200 mq. ... Prezzo dell'immobile: 80.000 €.",
       "scraped_at": "2026-06-21T09:02:56.241359+00:00"
+    },
+    {
+      "id": "efdd2ac7e811",
+      "title": "Case fino a 100.000 euro, 98126, Messina — idealista, N.1 in Italia",
+      "url": "https://www.idealista.it/geo/vendita-case/98126/con-prezzo_100000/",
+      "source": "Idealista",
+      "region": "Italie",
+      "city": "Santa Lucia",
+      "price_eur": 98287,
+      "sqm": 350,
+      "rooms": null,
+      "price_per_sqm": 280.8,
+      "property_type": "Immeuble / palazzo",
+      "airport_access": "aéroport à vérifier",
+      "nearest_airport_hint": null,
+      "score": 76,
+      "score_parts": {
+        "budget": 10,
+        "volume": 24,
+        "type": 22,
+        "nature": 0,
+        "airport": 0,
+        "risk": 0
+      },
+      "quality_tier": "Maison à étudier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Immeuble / palazzo · volume exploitable (350 m²) · budget compatible (98 287€) · prix/m² intéressant (~280 €/m²)",
+      "snippet": "21 case fino a 100.000 euro, 98126, Messina. 73.715€ 98.287 € 25% intero stabile di 350 mq situato a Santa Lucia, 53.000€ 662 €/m2",
+      "scraped_at": "2026-11-02T20:57:20.192976+00:00"
     },
     {
       "id": "12bbb82c58cd",
