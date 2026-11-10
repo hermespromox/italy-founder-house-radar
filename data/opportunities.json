@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:54:45.313096+00:00",
+  "updated_at": "2026-11-10T15:53:12.392893+00:00",
   "count": 14,
   "visible_count": 11,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -285,7 +285,7 @@
       "reject_reasons": [],
       "reason": "Maison entière · nature/espace (jardin) · budget compatible (57 000€) · Sicilia",
       "snippet": "Casa indipendente in vendita in Via San Leonardo, 8, Zona Corso Sicilia, San Cataldo, giardino personale. Prezzo € 57.000.",
-      "scraped_at": "2026-10-28T10:06:26.202210+00:00"
+      "scraped_at": "2026-11-10T15:53:07.134265+00:00"
     },
     {
       "id": "4540510beb44",
@@ -345,7 +345,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (46 000€) · Sicilia",
       "snippet": "Rustico Novara di Sicilia, Novara di Sicilia ; Informazioni sul prezzo. Prezzo: € 46.000. Prezzo al m²: 275 €/m². salva annuncio ; Prezzo al m² ...",
-      "scraped_at": "2026-11-09T23:53:35.131913+00:00"
+      "scraped_at": "2026-11-10T15:53:10.138299+00:00"
     },
     {
       "id": "4da2b2da677d",
@@ -405,7 +405,7 @@
       "reject_reasons": [],
       "reason": "Casale / maison de campagne · budget compatible (30 000€) · Sicilia",
       "snippet": "Casale via Regina Margherita, Fiumefreddo di Sicilia ; Prezzo: € 30.000 ; Prezzo al m²: 333 €/m².",
-      "scraped_at": "2026-11-09T23:53:35.382321+00:00"
+      "scraped_at": "2026-11-10T15:53:10.388629+00:00"
     },
     {
       "id": "afa2207981fa",
