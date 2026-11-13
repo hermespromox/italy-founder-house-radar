@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T19:19:48.574683+00:00",
-  "count": 15,
-  "visible_count": 11,
+  "updated_at": "2026-11-13T00:46:53.080914+00:00",
+  "count": 16,
+  "visible_count": 12,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
     "Idealista",
@@ -228,6 +228,36 @@
       "scraped_at": "2026-10-13T20:52:52.472779+00:00"
     },
     {
+      "id": "297a7d7b1267",
+      "title": "Rustici, casali economici con giardino privato in vendita in provincia ...",
+      "url": "https://www.casa.it/vendita/rustici-casali/catania-provincia/con-giardino-privato?sortType=price-asc",
+      "source": "Casa",
+      "region": "Italie",
+      "city": null,
+      "price_eur": 19000,
+      "sqm": null,
+      "rooms": 4,
+      "price_per_sqm": null,
+      "property_type": "Casale / maison de campagne",
+      "airport_access": "aéroport mentionné",
+      "nearest_airport_hint": null,
+      "score": 63,
+      "score_parts": {
+        "budget": 13,
+        "volume": -2,
+        "type": 16,
+        "nature": 6,
+        "airport": 10,
+        "risk": 0
+      },
+      "quality_tier": "Maison à étudier",
+      "is_coliving_candidate": true,
+      "reject_reasons": [],
+      "reason": "Casale / maison de campagne · nature/espace (jardin) · aéroport mentionné · budget compatible (19 000€)",
+      "snippet": "194 rustici, casali economici con giardino privato in vendita in provincia di Catania, Rustico/casale in Via Tarderia Pedara (CT) € 19.000 70 m²4 locali1 bagno ...",
+      "scraped_at": "2026-11-13T00:46:50.324943+00:00"
+    },
+    {
       "id": "f1ea15ae29e9",
       "title": "Casa indipendente in Vendita in Strada Statale dell'Etna e delle ...",
       "url": "https://www.casa.it/immobili/54150078/",
@@ -345,7 +375,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (46 000€) · Sicilia",
       "snippet": "Rustico Novara di Sicilia, Novara di Sicilia ; Informazioni sul prezzo. Prezzo: € 46.000. Prezzo al m²: 275 €/m². salva annuncio ; Prezzo al m² ...",
-      "scraped_at": "2026-11-12T19:19:47.322871+00:00"
+      "scraped_at": "2026-11-13T00:46:52.578448+00:00"
     },
     {
       "id": "4da2b2da677d",
@@ -465,7 +495,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · Sicilia",
       "snippet": "Terratetto unifamiliare corso umberto i 215, Nizza di Sicilia ; Prezzo: € 110.000 ; Prezzo al m²: 1.294 €/m².",
-      "scraped_at": "2026-11-12T19:19:46.321969+00:00"
+      "scraped_at": "2026-11-13T00:46:51.827318+00:00"
     }
   ]
 }
