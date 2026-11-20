@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T16:53:51.647355+00:00",
-  "count": 16,
+  "updated_at": "2026-11-20T01:29:18.890674+00:00",
+  "count": 15,
   "visible_count": 12,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
   "sources": [
@@ -466,36 +466,6 @@
       "quality_tier": "À vérifier",
       "is_coliving_candidate": true,
       "reject_reasons": []
-    },
-    {
-      "id": "f1efeea72142",
-      "title": "Villa plurifamiliare San Filippo di Fragalà 19, Frazzanò - Immobiliare.it",
-      "url": "https://www.immobiliare.it/annunci/128370998/",
-      "source": "Immobiliare",
-      "region": "Italie",
-      "city": null,
-      "price_eur": 109650,
-      "sqm": null,
-      "rooms": null,
-      "price_per_sqm": null,
-      "property_type": "Villa",
-      "airport_access": "aéroport à vérifier",
-      "nearest_airport_hint": null,
-      "score": 9,
-      "score_parts": {
-        "budget": -25,
-        "volume": -2,
-        "type": 16,
-        "nature": 0,
-        "airport": 0,
-        "risk": 0
-      },
-      "quality_tier": "À vérifier",
-      "is_coliving_candidate": true,
-      "reject_reasons": [],
-      "reason": "Villa",
-      "snippet": "Villa plurifamiliare San Filippo di Fragalà 19, Frazzanò ; Prezzo: € 109.650 ; Prezzo al m²: 406 €/m².",
-      "scraped_at": "2026-11-19T16:53:50.644918+00:00"
     }
   ]
 }
