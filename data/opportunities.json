@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T02:30:54.851185+00:00",
+  "updated_at": "2026-11-27T13:15:54.308097+00:00",
   "count": 16,
   "visible_count": 12,
   "quality_definition": "Whole houses/villas/palazzi/casali with space/nature and plausible airport access; apartments, land, garages and tiny units are penalized or hidden.",
@@ -375,7 +375,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · budget compatible (46 000€) · Sicilia",
       "snippet": "Rustico Novara di Sicilia, Novara di Sicilia ; Informazioni sul prezzo. Prezzo: € 46.000. Prezzo al m²: 275 €/m². salva annuncio ; Prezzo al m² ...",
-      "scraped_at": "2026-11-26T17:56:50.754516+00:00"
+      "scraped_at": "2026-11-27T13:15:53.055149+00:00"
     },
     {
       "id": "4da2b2da677d",
@@ -495,7 +495,7 @@
       "reject_reasons": [],
       "reason": "Maison de village · Sicilia",
       "snippet": "Terratetto unifamiliare corso umberto i 215, Nizza di Sicilia ; Prezzo: € 110.000 ; Prezzo al m²: 1.294 €/m².",
-      "scraped_at": "2026-11-27T02:30:54.098852+00:00"
+      "scraped_at": "2026-11-27T13:15:52.303757+00:00"
     }
   ]
 }
